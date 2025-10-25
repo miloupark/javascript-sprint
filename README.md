@@ -20,3 +20,4 @@
 - [ChatGPT를 더 잘 쓰는 방법 2탄](https://joshua1988.github.io/web-development/opinions/how-to-use-chatgpt-part2/)
 - [NPM이란 - 캡틴판교의 웹팩 핸드북](https://joshua1988.github.io/webpack-guide/build/node-npm.html#npm)
 - [lodash 공식 문서](https://lodash.com/)
+- [자바스크립트 비동기 처리와 콜백 함수 - 캡팡](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
