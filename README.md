@@ -30,3 +30,8 @@
 - [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
 - [ChatGPT를 더 잘 쓰는 방법 1탄](https://joshua1988.github.io/web-development/opinions/how-to-use-chatgpt-part1/)
 - [ChatGPT를 더 잘 쓰는 방법 2탄](https://joshua1988.github.io/web-development/opinions/how-to-use-chatgpt-part2/)
+
+#### 라이브 코딩 자료
+
+- [구글의 코드리뷰 가이드](https://google.github.io/eng-practices/review/reviewer/standard.html)
+- [구글의 코드 리뷰 가이드 - 요약 번역본](https://soojin.ro/review/)
